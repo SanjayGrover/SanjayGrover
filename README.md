@@ -24,13 +24,13 @@ Welcome to my GitHub! I'm a **Computer Engineering student** passionate about AI
 
 ---
 
-[comment]: <> ### 🚀 Featured Projects
+<!-- ### 🚀 Featured Projects
 
 [comment]: <>🔹 [**Vision Ring**](https://github.com/your-username/vision-ring) – Smart reminder & alarm system with ESP32 and OLED.
 
 [comment]: <>🔹 [**AI Research & Development**](https://github.com/your-username/ai-projects) – Exploring AI models for real-world applications.
 
-[comment]: <>🔹 [**Git Optimization Research**](https://github.com/your-username/git-research) – Optimizing Git’s delta compression & commit algorithm.
+[comment]: <>🔹 [**Git Optimization Research**](https://github.com/your-username/git-research) – Optimizing Git’s delta compression & commit algorithm. -->
 
 
 ### 📊 GitHub Stats

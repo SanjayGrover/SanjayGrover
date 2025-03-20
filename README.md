@@ -36,7 +36,7 @@ Welcome to my GitHub! I'm a **Computer Engineering student** passionate about AI
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanjayGrover&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/all-langs/?username=SanjayGrover&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayGrover&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=SanjayGrover&theme=radical)
 
 ---

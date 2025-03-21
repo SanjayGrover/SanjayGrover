@@ -48,4 +48,4 @@ Welcome to my GitHub! I'm a **Computer Engineering student** passionate about AI
 
 ---
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=AI+%7C+Embedded+Systems+%7C+Data+Analytics)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=AI+%7C+Embedded+Systems+%7C+Data+Analytics+%7C)

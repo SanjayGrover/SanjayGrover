@@ -58,9 +58,7 @@ I want to solve the same previous-year-questions book again and again, and you c
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**FLUX.1-dev Text-to-Image**](https://github.com/SanjayGrover/black-forest-labs-FLUX1-dev-Text-To-Image) | Text-to-image generation with Black Forest Labs' FLUX.1-dev model | Python |
 | [**Excalibur**](https://github.com/SanjayGrover/Excalibur) · [**2024 edition**](https://github.com/SanjayGrover/Excalibur-2024) | Built for Excalibur at Techspardha 2024, NIT Kurukshetra's tech fest | Python |
-| [**30 Days of JavaScript**](https://github.com/SanjayGrover/30DaysOfJavaScript) | A month of JavaScript fundamentals, one day at a time | JavaScript |
 
 ---
 
